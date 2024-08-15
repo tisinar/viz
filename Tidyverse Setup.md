@@ -1,0 +1,3 @@
+-libcurl4-openssl-dev
+-libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev
+-
